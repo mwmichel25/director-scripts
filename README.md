@@ -11,6 +11,12 @@ Please refer to the [Cloudera Director documentation]
 (http://www.cloudera.com/content/cloudera/en/documentation/cloudera-director/latest/topics/director_intro.html) for
 more details on where and how to add scripts.
 
+## Code Contributing
+
+In order to contribute code you must sign the ICLA and CCLA. It is a requirement that you sign one of the license 
+agreements for us to recognize and use the code you have contributed. You only need to sign the agreement once then 
+you can get started.
+
 ## Bootstrap scripts
 
 There are currently no example bootstrap scripts available.
