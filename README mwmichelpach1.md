@@ -2,10 +2,10 @@
 
 ## Contributing Code
 
-In order to contribute code you must sign the ICLA(https://github.com/cloudera/livy/wiki/Individual-Contributor-License-Agreement-(ICLA)(For independant Contributors on their own behalf)  or CCLA(https://github.com/cloudera/livy/wiki/Corporate-Contributor-License-Agreement-(CCLA)(If you are contributing for a company or orgonization).
+In order to contribute code you must sign one of two agreements. First if you are choosing to contrubute on your own behalf then sign the "ICLA agreement (https://github.com/cloudera/livy/wiki/Individual-Contributor-License-Agreement-(ICLA)". If you are contrbuting on the behalf of an organization or a company you must sign the the "CCLA agreement (https://github.com/cloudera/livy/wiki/Corporate-Contributor-License-Agreement-(CCLA)". 
 It is a requirement that you sign one of the license 
 agreements for us to recognize and use the code you have contributed. You only need to sign the agreement once then 
-you can get started. Submit you signed licenses to cla@cloudera.com when you are finished.
+you can get started. Submit your signed licenses to cla@cloudera.com when you are finished.
 
 ## Overview
 
