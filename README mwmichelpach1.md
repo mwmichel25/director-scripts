@@ -1,6 +1,6 @@
 # Cloudera Director Public Scripts
 
-## Code Contributing
+## Contributing Code
 
 In order to contribute code you must sign the ICLA(https://github.com/cloudera/livy/wiki/Individual-Contributor-License-Agreement-(ICLA) or CCLA(https://github.com/cloudera/livy/wiki/Corporate-Contributor-License-Agreement-(CCLA).
 It is a requirement that you sign one of the license 
