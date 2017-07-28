@@ -1,5 +1,12 @@
 # Cloudera Director Public Scripts
 
+## Code Contributing
+
+In order to contribute code you must sign the ICLA(https://github.com/cloudera/livy/wiki/Individual-Contributor-License-Agreement-(ICLA) or CCLA(https://github.com/cloudera/livy/wiki/Corporate-Contributor-License-Agreement-(CCLA).
+It is a requirement that you sign one of the license 
+agreements for us to recognize and use the code you have contributed. You only need to sign the agreement once then 
+you can get started.
+
 ## Overview
 
 Cloudera Director has two points during the cluster creation process where custom made user scripts can be run.
